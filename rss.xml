@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Mirai Kaihatsu]]></title>
         <description><![CDATA[Mirai Kaihatsu]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mirai-kaihatsu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 12:28:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 13 Jun 2016 12:28:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mirai-kaihatsu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Proposed name for 113th element a fulfilled wish for Japanese researchers - The Mainichi]]></title>
+            <description><![CDATA[<article><h1>Proposed name for 113th element a fulfilled wish for Japanese researchers - The Mainichi</h1><p>The naming of the atomic element 113 as "nihonium" by Japanese researchers signals a landmark achievement providing a breath of fresh air for Japan in the discovery and synthesis of new elements, which has been dominated by European and U.S. researchers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d04bd0f5ea83190406f44e2a25bde39b73629d2.jpg"></article>]]></description>
+            <link>http://mainichi.jp/english/articles/20160609/p2a/00m/0na/010000c</link>
+            <guid isPermaLink="false">d8798172-db69-453d-8524-6a0415271b2d</guid>
+            <pubDate>Mon, 13 Jun 2016 12:28:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tokyo stocks drop at outset amid uncertainty over British referendum - The Mainichi]]></title>
             <description><![CDATA[<article><h1>Tokyo stocks drop at outset amid uncertainty over British referendum - The Mainichi</h1><p>TOKYO (Kyodo) -- Tokyo stocks opened sharply lower Monday, with the Nikkei index dropping to a roughly one-month intraday low amid growing uncertainty over Britain's referendum on its EU membership later this month.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d04bd0f5ea83190406f44e2a25bde39b73629d2.jpg"></article>]]></description>
